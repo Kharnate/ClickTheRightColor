@@ -1,0 +1,32 @@
+.start-game-rules{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.start-btn{
+    width: 125px;
+    height: 45px;
+}
+
+.yellow-btn{
+    background-color: yellow;
+}
+
+.game-btn{
+    width: 105px;
+    height: 105px;
+    margin: 25px;
+}
+
+.game-buttons{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.game-score{
+    display: flex;
+    justify-content: center;
+}
